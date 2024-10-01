@@ -4,7 +4,7 @@ This repository is provided alongside the paper: "Tackling Action Sparsity with 
 
 ## Abstract
 
-The purpose of this research is to addresses one of the primary challenges in analyzing player behavior through spatial data, inherent sparsity of actions during a match. We do this by proposing a new Probability Vectors of Zonal Actions (PVZA) technique, which models player behavior using a multinomial distribution across spatial zones on the pitch. 
+The purpose of this research is to address a primary challenge in analyzing player behavior through spatial data: inherent sparsity of actions during a match. We do this by proposing a new Probability Vectors of Zonal Actions (PVZA) technique, which models player behavior using a multinomial distribution across spatial zones on the pitch. 
 
 ## Data
 
